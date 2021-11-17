@@ -61,7 +61,7 @@ Prigo nace como una respuesta a los cambios en los hábitos de consumo de los ho
 
 Visitanos en Instagram - [@prigo.estilocasero](https://instagram.com/prigo.estilocasero)
 
-Sitio web – [https://mecepeda.github.io/prigo-estilocasero](https://mecepeda.github.io/prigo-estilocasero)
+Sitio web – [https://www.prigo.com.ar](https://mecepeda.github.io/prigo-estilocasero)
 
 <p align="right">(<a href="#top">volver arriba</a>)</p>
 
