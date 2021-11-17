@@ -1,4 +1,5 @@
-import { Component } from '@angular/core';
+import { Component, ViewChild } from '@angular/core';
+import { IonContent } from '@ionic/angular';
 
 @Component({
   selector: 'app-home',
@@ -6,8 +7,23 @@ import { Component } from '@angular/core';
   styleUrls: ['home.page.scss'],
 })
 export class HomePage {
+  @ViewChild(IonContent) content: IonContent;
+  // Optional parameters to pass to the swiper instance.
+  // See http://idangero.us/swiper/api/ for valid options.
+  slideOpts = {
+    initialSlide: 0,
+    speed: 400
+  };
+  formSent:boolean
 
-  constructor() {}
+  constructor() {
+    this.formSent = false
+  }
+
+  scrollTo(elementId: string) {
+    let y = document.getElementById(elementId).offsetTop;
+    this.content.scrollToPoint(0, y);
+  }
 
   goToInstagram(){
     window.location.href = 'https://instagram.com/prigo.estilocasero'

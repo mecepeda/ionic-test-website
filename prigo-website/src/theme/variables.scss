@@ -75,8 +75,6 @@
   // --ion-color-light-shade: #d7d8da;
   // --ion-color-light-tint: #f5f6f9;
 
-
-
   --ion-color-primary: #a63b32;
   --ion-color-primary-rgb: 166,59,50;
   --ion-color-primary-contrast: #ffffff;
@@ -139,6 +137,11 @@
   --ion-color-light-contrast-rgb: 0,0,0;
   --ion-color-light-shade: #d7d8da;
   --ion-color-light-tint: #f5f6f9;
+
+  /* Set the background of the entire app */
+  ion-content{
+    --background: #dac5b4;
+  }
 }
 
 @media (prefers-color-scheme: light) {
