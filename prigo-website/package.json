@@ -9,7 +9,8 @@
     "build": "ng build",
     "test": "ng test",
     "lint": "ng lint",
-    "e2e": "ng e2e"
+    "e2e": "ng e2e",
+    "deploy-github": "ionic build --prod -- --base-href https://mecepeda.github.io/prigo-estilocasero/ && npx angular-cli-ghpages --branch=gh-pages --dir=www"
   },
   "private": true,
   "dependencies": {
@@ -21,6 +22,7 @@
     "@angular/router": "~12.1.1",
     "@capacitor/core": "3.3.1",
     "@ionic/angular": "^5.5.2",
+    "angular-cli-ghpages": "^1.0.0-rc.2",
     "rxjs": "~6.6.0",
     "tslib": "^2.2.0",
     "zone.js": "~0.11.4"
