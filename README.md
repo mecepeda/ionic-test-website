@@ -70,7 +70,7 @@ Sitio web – [www.prigo.com.ar](https://mecepeda.github.io/prigo-estilocasero)
 
 <p align="right">(<a href="#top">volver arriba</a>)</p>
 
-## Fábrica
+## Planta industrial
 
 * Link a carpeta compartida
 
