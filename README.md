@@ -38,6 +38,8 @@
     ·
     <a href="#contacto">Contacto</a>
     ·
+    <a href="#fabrica">Ver la fábrica</a>
+    ·
     <a href="#integrantes">Integrantes</a>
   </p>
 </div>
@@ -53,6 +55,7 @@ Prigo nace como una respuesta a los cambios en los hábitos de consumo de los ho
 
 ## Misión, visión y valores
 
+* Gracias a una amplia red de clientes, Prigo busca llegar a las cocinas, y agasajar con el más rico bocado dulce en cualquier momento del día o en una ocasión especial.
 * Ser una marca de renombre entre los productos de panadería industriales, conocida por la intensidad de sus sabores y la calidad de sus texturas, similares a un producto “hecho en casa” para lograr la fidelidad de cada uno de sus clientes.
 * Brindar confianza, y ofrecer con calidad, calidez, compromiso y eficacia, el sabor único que sus clientes esperan son los pilares de nuestra organización.
 
@@ -64,6 +67,12 @@ Prigo nace como una respuesta a los cambios en los hábitos de consumo de los ho
 Visitanos en Instagram - [@prigo.estilocasero](https://instagram.com/prigo.estilocasero)
 
 Sitio web – [www.prigo.com.ar](https://mecepeda.github.io/prigo-estilocasero)
+
+<p align="right">(<a href="#top">volver arriba</a>)</p>
+
+## Fábrica
+
+* Link a carpeta compartida
 
 <p align="right">(<a href="#top">volver arriba</a>)</p>
 
