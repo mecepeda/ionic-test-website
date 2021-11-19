@@ -38,8 +38,6 @@
     ·
     <a href="#contacto">Contacto</a>
     ·
-    <a href="#planta-industrial">Planta industrial</a>
-    ·
     <a href="#integrantes">Integrantes</a>
   </p>
 </div>
@@ -67,12 +65,6 @@ Prigo nace como una respuesta a los cambios en los hábitos de consumo de los ho
 Visitanos en Instagram - [@prigo.estilocasero](https://instagram.com/prigo.estilocasero)
 
 Sitio web – [www.prigo.com.ar](https://mecepeda.github.io/prigo-estilocasero)
-
-<p align="right">(<a href="#top">volver arriba</a>)</p>
-
-## Planta industrial
-
-* Link a carpeta compartida
 
 <p align="right">(<a href="#top">volver arriba</a>)</p>
 
