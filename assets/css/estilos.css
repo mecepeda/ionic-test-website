@@ -1,0 +1,88 @@
+#valores {
+    background: url(../imagenes/fondo3.jpg) no-repeat center center fixed;
+}
+
+h2 {
+    font-family: 'Quicksand', sans-serif;
+    font-weight: bolder;
+}
+
+h4 {
+    font-family: 'Quicksand', sans-serif;
+}
+
+@media (min-width: 60rem) {
+    #nosotros {
+        height: 100vh;
+    }
+}
+
+@media (min-width: 68.125rem) {
+    .card {
+        width: 21.875rem;
+        height: 25rem;
+    }
+}
+
+
+.footer {
+    font-family: 'Quicksand', sans-serif;
+    font-weight: 500px;
+}
+
+
+.card {
+    background-color: rgba(255, 255, 255, 0.75);
+    margin: auto;
+} 
+
+.card-body {
+    align-items: center !important;
+}
+
+
+.carousel-item img {
+    margin: auto;
+    padding-top: 3.125rem;
+}
+
+
+@media (min-width: 960px) {
+    #valores {
+        height: 100vh;
+    }
+}
+
+
+.carousel-item {
+    align-items: center !important;
+}
+
+.mision {
+    color: white;
+}
+
+#barra {
+    background-color: rgba(19, 28, 27, 0.75);
+}
+
+#textosbarra {
+    color: white;
+}
+
+#navbarNav {
+    font-family: 'Quicksand', sans-serif;
+    font-weight: 500;
+    color: white;
+}
+
+
+.nav-link:hover {
+    color: rgb(242, 222, 162) !important;
+}
+
+
+
+.lineasnav {
+    color: dimgray;
+}
