@@ -36,6 +36,8 @@
     ·
     <a href="https://www.canva.com/design/DAEtRUw5jSs/K0mrUIlHAPGLiVQPEuZm6w/view?utm_content=DAEtRUw5jSs&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton">Reviví la presentación</a>
     ·
+    <a href="#planta-industrial">Planta industrial</a>
+    ·
     <a href="#contacto">Contacto</a>
     ·
     <a href="#integrantes">Integrantes</a>
@@ -56,6 +58,13 @@ Prigo nace como una respuesta a los cambios en los hábitos de consumo de los ho
 * Gracias a una amplia red de clientes, Prigo busca llegar a las cocinas, y agasajar con el más rico bocado dulce en cualquier momento del día o en una ocasión especial.
 * Ser una marca de renombre entre los productos de panadería industriales, conocida por la intensidad de sus sabores y la calidad de sus texturas, similares a un producto “hecho en casa” para lograr la fidelidad de cada uno de sus clientes.
 * Brindar confianza, y ofrecer con calidad, calidez, compromiso y eficacia, el sabor único que sus clientes esperan son los pilares de nuestra organización.
+
+<p align="right">(<a href="#top">volver arriba</a>)</p>
+
+
+## Planta industrial
+
+* Recorré la fábrica y oficinas: [link de acceso](https://drive.google.com/drive/folders/1QDnZwv6XiI2ZJ0KheeJ-4dtjV_ZZYjTk?usp=sharing) 
 
 <p align="right">(<a href="#top">volver arriba</a>)</p>
 
