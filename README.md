@@ -32,7 +32,9 @@
     Proyecto de inversión
     <br />
     <br />
-    <a href="https://mecepeda.github.io/prigo-estilocasero/">Vista el sitio</a>
+    <a href="https://drive.google.com/file/d/1PLDeBOdSIlyrEh0oqoMjwC94PaO_JVxa/view?usp=sharing">Resumen ejecutivo</a>
+    ·
+    <a href="https://mecepeda.github.io/prigo-estilocasero/">Visita el sitio</a>
     ·
     <a href="#contacto">Contacto</a>
     ·
