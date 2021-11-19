@@ -38,7 +38,7 @@
     ·
     <a href="#contacto">Contacto</a>
     ·
-    <a href="#planta-industrial">Ver la fábrica</a>
+    <a href="#planta-industrial">Planta industrial</a>
     ·
     <a href="#integrantes">Integrantes</a>
   </p>
